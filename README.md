@@ -1,2 +1,2 @@
-# iSiant06.github.io
+# iSant06.github.io
 Mr Gault's Sample Page
